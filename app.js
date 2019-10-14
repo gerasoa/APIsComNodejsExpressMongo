@@ -26,7 +26,6 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 
-
 const indexRoute = require('./Routes/index');
 const usersRoute = require('./Routes/users');
 
