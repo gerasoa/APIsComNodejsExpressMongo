@@ -8,7 +8,8 @@ Implementação básica de uma API utilizando:
 node.js com express
 mongodb
 
-endpoints;
+endpoints; 
+
 rotas; 
 banco de dados (com modelagem utilizando mongoose);
 criptografia utilizando bcrypt;
