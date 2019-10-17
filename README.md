@@ -6,7 +6,7 @@ Implementação básica de uma API utilizando:
 
 - node.js com express
 
-- mongodb
+- mongodb - https://www.mongodb.com/cloud/atlas
 
 
 
