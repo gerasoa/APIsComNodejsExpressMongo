@@ -1,4 +1,4 @@
-![./C:/Publish/node.png](teste)
+![./images/node.png](teste)
 
 # APIs com NodeJS Express Mongo
 
