@@ -1,4 +1,4 @@
-![./images/node.png](teste)
+![./node.png](node)
 
 # APIs com NodeJS Express Mongo
 
