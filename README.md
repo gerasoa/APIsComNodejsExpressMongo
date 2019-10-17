@@ -1,27 +1,30 @@
-![NodeJs image](./node.png)
-![Mongo image](./mongo.png)
+![NodeJs image](./node.png)                ![Mongo image](./mongo.png)
 
 # APIs com NodeJS Express Mongo
 
 Implementação básica de uma API utilizando: 
 
-node.js com express
+- node.js com express
 
-mongodb
+- mongodb
 
-endpoints; 
 
-rotas; 
 
-banco de dados (com modelagem utilizando mongoose);
+# Implementando: 
 
-criptografia utilizando bcrypt;
+- endpoints
 
-autenticação utilizando jwt (jsonwebtoken);
+- rotas 
 
-async await;
+- banco de dados (com modelagem utilizando mongoose);
 
-http status codes
+- criptografia utilizando bcrypt;
+
+- autenticação utilizando jwt (jsonwebtoken);
+
+- async await;
+
+- http status codes
 
 
 Diego Penteado
